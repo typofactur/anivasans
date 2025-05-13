@@ -1,0 +1,63 @@
+{
+glyphname = nine.osf;
+kernLeft = KO_nine.osf;
+kernRight = KO_nine.osf;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = nine;
+}
+);
+width = 541;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 547;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = nine;
+}
+);
+width = 623;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 527;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 542;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = nine;
+}
+);
+width = 597;
+}
+);
+metricLeft = nine;
+metricRight = nine;
+}

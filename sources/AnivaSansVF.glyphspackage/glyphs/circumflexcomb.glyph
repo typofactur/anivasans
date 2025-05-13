@@ -1,0 +1,221 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,710);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (555,170);
+type = Stem;
+},
+{
+place = (80,340);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,615,l),
+(385,540,l),
+(397,558,o),
+(408,577,o),
+(420,595,c),
+(250,710,l),
+(80,595,l),
+(92,577,o),
+(103,558,o),
+(115,540,c)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,690);
+}
+);
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,640,l),
+(381,560,l),
+(386,569,o),
+(392,578,o),
+(397,587,c),
+(250,690,l),
+(103,587,l),
+(108,578,o),
+(114,569,o),
+(119,560,c)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,750);
+}
+);
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,605,l),
+(394,510,l),
+(413,537,o),
+(431,564,o),
+(450,591,c),
+(250,750,l),
+(50,591,l),
+(69,564,o),
+(87,537,o),
+(106,510,c)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,690);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,640,l),
+(381,560,ls),
+(402,547,o),
+(417,573,o),
+(397,587,cs),
+(250,690,l),
+(103,587,ls),
+(83,573,o),
+(98,547,o),
+(119,560,cs)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,710);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (555,170);
+type = Stem;
+},
+{
+place = (80,340);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,625,l),
+(380,550,ls),
+(408,534,o),
+(437,575,o),
+(410,595,cs),
+(250,710,l),
+(90,595,ls),
+(63,575,o),
+(92,534,o),
+(120,550,cs)
+);
+}
+);
+width = 500;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (250,500);
+},
+{
+name = top;
+pos = (250,750);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,606,l),
+(369,536,ls),
+(411,511,o),
+(458,581,o),
+(420,612,cs),
+(250,750,l),
+(81,612,ls),
+(42,580,o),
+(89,511,o),
+(132,536,cs)
+);
+}
+);
+width = 500;
+}
+);
+note = circumflex;
+unicode = 770;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

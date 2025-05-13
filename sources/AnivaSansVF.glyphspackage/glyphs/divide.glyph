@@ -1,0 +1,175 @@
+{
+export = 0;
+glyphname = divide;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (50,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (218,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (355,95);
+type = Stem;
+},
+{
+place = (233,95);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,376,o),
+(254,355,o),
+(280,355,cs),
+(306,355,o),
+(328,376,o),
+(328,402,cs),
+(328,428,o),
+(306,450,o),
+(280,450,cs),
+(254,450,o),
+(233,428,o),
+(233,402,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,283,l),
+(80,283,l),
+(80,218,l),
+(480,218,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,71,o),
+(254,50,o),
+(280,50,cs),
+(306,50,o),
+(328,71,o),
+(328,97,cs),
+(328,123,o),
+(306,145,o),
+(280,145,cs),
+(254,145,o),
+(233,123,o),
+(233,97,cs)
+);
+}
+);
+width = 560;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 600;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (50,95);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (218,65);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (355,95);
+type = Stem;
+},
+{
+place = (233,95);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(233,376,o),
+(254,355,o),
+(280,355,cs),
+(306,355,o),
+(328,376,o),
+(328,402,cs),
+(328,428,o),
+(306,450,o),
+(280,450,cs),
+(254,450,o),
+(233,428,o),
+(233,402,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,283,l),
+(80,283,l),
+(80,218,l),
+(480,218,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(233,71,o),
+(254,50,o),
+(280,50,cs),
+(306,50,o),
+(328,71,o),
+(328,97,cs),
+(328,123,o),
+(306,145,o),
+(280,145,cs),
+(254,145,o),
+(233,123,o),
+(233,97,cs)
+);
+}
+);
+width = 560;
+},
+{
+layerId = m006;
+width = 600;
+},
+{
+associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
+layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
+width = 601.51933;
+}
+);
+note = divide;
+unicode = 247;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

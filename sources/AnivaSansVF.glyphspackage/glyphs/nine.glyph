@@ -1,0 +1,80 @@
+{
+glyphname = nine;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+angle = 180;
+pos = (541,600);
+ref = six;
+}
+);
+width = 541;
+},
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (547,600);
+ref = six;
+}
+);
+width = 547;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+angle = 180;
+pos = (623,600);
+ref = six;
+}
+);
+width = 623;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (527,600);
+ref = six;
+}
+);
+width = 527;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (542,600);
+ref = six;
+}
+);
+width = 542;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (597,600);
+ref = six;
+}
+);
+width = 597;
+}
+);
+metricLeft = six;
+metricRight = six;
+unicode = 57;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

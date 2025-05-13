@@ -1,0 +1,194 @@
+{
+glyphname = semicolon;
+kernLeft = KO_semicolon;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,390,o),
+(170,416,o),
+(170,450,cs),
+(170,483,o),
+(143,510,o),
+(110,510,cs),
+(76,510,o),
+(50,483,o),
+(50,450,cs),
+(50,416,o),
+(76,390,o),
+(110,390,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 245;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,440,o),
+(160,456,o),
+(160,475,cs),
+(160,494,o),
+(144,510,o),
+(125,510,cs),
+(106,510,o),
+(90,494,o),
+(90,475,cs),
+(90,456,o),
+(106,440,o),
+(125,440,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 260;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,310,o),
+(235,354,o),
+(235,410,cs),
+(235,466,o),
+(187,510,o),
+(125,510,cs),
+(63,510,o),
+(15,466,o),
+(15,410,cs),
+(15,354,o),
+(63,310,o),
+(125,310,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 275;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(144,440,o),
+(160,456,o),
+(160,475,cs),
+(160,494,o),
+(144,510,o),
+(125,510,cs),
+(106,510,o),
+(90,494,o),
+(90,475,cs),
+(90,456,o),
+(106,440,o),
+(125,440,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 265;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (45,121);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(143,390,o),
+(170,416,o),
+(170,450,cs),
+(170,483,o),
+(143,510,o),
+(110,510,cs),
+(76,510,o),
+(50,483,o),
+(50,450,cs),
+(50,416,o),
+(76,390,o),
+(110,390,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 245;
+},
+{
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(187,310,o),
+(235,354,o),
+(235,410,cs),
+(235,466,o),
+(187,510,o),
+(125,510,cs),
+(63,510,o),
+(15,466,o),
+(15,410,cs),
+(15,354,o),
+(63,310,o),
+(125,310,cs)
+);
+},
+{
+ref = comma;
+}
+);
+width = 275;
+}
+);
+metricLeft = "=period";
+metricRight = "=comma";
+note = period;
+unicode = 59;
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+R = "spaced-off";
+};
+};
+}

@@ -1,0 +1,84 @@
+{
+glyphname = zdotaccent.sc;
+kernRight = KO_z.sc;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-74,0);
+ref = dotaccentcomb;
+}
+);
+width = 400;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-71,0);
+ref = dotaccentcomb;
+}
+);
+width = 388;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-35,0);
+ref = dotaccentcomb;
+}
+);
+width = 462;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-70,0);
+ref = dotaccentcomb;
+}
+);
+width = 400;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-76,0);
+ref = dotaccentcomb;
+}
+);
+width = 388;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (-29,0);
+ref = dotaccentcomb;
+}
+);
+width = 462;
+}
+);
+}

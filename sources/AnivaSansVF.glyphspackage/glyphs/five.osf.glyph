@@ -1,0 +1,63 @@
+{
+glyphname = five.osf;
+kernLeft = KO_five.osf;
+kernRight = KO_five.osf;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = five;
+}
+);
+width = 484;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = five;
+}
+);
+width = 513;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = five;
+}
+);
+width = 590;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = five;
+}
+);
+width = 473;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = five;
+}
+);
+width = 506;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = five;
+}
+);
+width = 570;
+}
+);
+metricLeft = five;
+metricRight = five;
+}

@@ -1,0 +1,68 @@
+{
+glyphname = softhyphen;
+kernLeft = KO_hyphen;
+kernRight = KO_hyphen;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 500;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 450;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 400;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 480;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 420;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 360;
+}
+);
+unicode = 173;
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
+}

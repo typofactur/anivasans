@@ -1,0 +1,219 @@
+{
+glyphname = q.sc;
+kernLeft = KO_o.sc;
+kernRight = KO_o.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (247,0);
+},
+{
+name = top;
+pos = (247,500);
+}
+);
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+closed = 1;
+nodes = (
+(374,-130,o),
+(374,-116,o),
+(374,-103,c),
+(304,-103,o),
+(272,-63,o),
+(272,0,c),
+(222,0,l),
+(222,-91,o),
+(287,-143,o),
+(374,-143,c)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 494;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = top;
+pos = (265,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(392,-133,o),
+(392,-115,o),
+(392,-97,c),
+(332,-97,o),
+(299,-63,o),
+(299,0,c),
+(232,0,l),
+(232,-91,o),
+(295,-150,o),
+(392,-150,c)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 530;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (288,0);
+},
+{
+name = top;
+pos = (288,500);
+}
+);
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(448,-137,o),
+(448,-110,o),
+(448,-82,c),
+(388,-82,o),
+(355,-48,o),
+(355,0,c),
+(222,0,l),
+(222,-106,o),
+(285,-165,o),
+(448,-165,c)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 576;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (247,0);
+},
+{
+name = top;
+pos = (247,500);
+}
+);
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(399,-135,o),
+(399,-110,o),
+(374,-110,cs),
+(304,-110,o),
+(272,-63,o),
+(272,0,c),
+(222,0,l),
+(222,-91,o),
+(287,-135,o),
+(374,-135,cs)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 494;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (255,0);
+},
+{
+name = top;
+pos = (255,500);
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,-140,o),
+(412,-107,o),
+(382,-107,cs),
+(322,-107,o),
+(289,-63,o),
+(289,0,c),
+(222,0,l),
+(222,-91,o),
+(285,-140,o),
+(382,-140,cs)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 510;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (288,0);
+},
+{
+name = top;
+pos = (288,500);
+}
+);
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,-161,o),
+(515,-86,o),
+(448,-86,cs),
+(388,-86,o),
+(355,-53,o),
+(355,0,c),
+(222,0,l),
+(222,-101,o),
+(285,-161,o),
+(448,-161,cs)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 576;
+}
+);
+metricLeft = "=o.sc";
+metricRight = "=o.sc";
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

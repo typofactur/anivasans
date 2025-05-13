@@ -1,0 +1,36 @@
+{
+glyphname = hairspace;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 143;
+},
+{
+layerId = m01;
+width = 143;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 143;
+},
+{
+layerId = m004;
+width = 143;
+},
+{
+layerId = m005;
+width = 143;
+},
+{
+layerId = m006;
+width = 143;
+}
+);
+unicode = 8202;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

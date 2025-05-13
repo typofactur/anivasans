@@ -1,0 +1,110 @@
+{
+glyphname = grave;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (575,165);
+type = Stem;
+},
+{
+place = (147,205);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 498;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (575,165);
+type = Stem;
+},
+{
+place = (147,205);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 500;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 498;
+},
+{
+associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
+hints = (
+{
+horizontal = 1;
+place = (-22,-6);
+type = Stem;
+},
+{
+place = (-6,-8);
+type = Stem;
+}
+);
+layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
+shapes = (
+{
+closed = 1;
+nodes = (
+(194,709,l),
+(178,681,l),
+(309,605,l),
+(322,627,l)
+);
+}
+);
+width = 499.99304;
+}
+);
+note = grave;
+unicode = 96;
+}

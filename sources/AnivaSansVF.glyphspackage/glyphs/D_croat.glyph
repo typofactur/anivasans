@@ -1,0 +1,61 @@
+{
+glyphname = Dcroat;
+kernRight = KO_O;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 592;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 604;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 668;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 565;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 570;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Eth;
+}
+);
+width = 615;
+}
+);
+unicode = 272;
+}

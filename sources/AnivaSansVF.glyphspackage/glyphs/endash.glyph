@@ -1,0 +1,130 @@
+{
+glyphname = endash;
+kernLeft = KO_endash;
+kernRight = KO_endash;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (218,65);
+type = Stem;
+},
+{
+place = (80,650);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,290,l),
+(70,290,l),
+(70,220,l),
+(460,220,l)
+);
+}
+);
+width = 515;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+closed = 1;
+nodes = (
+(440,275,l),
+(100,275,l),
+(100,235,l),
+(440,235,l)
+);
+}
+);
+width = 540;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(540,318,l),
+(50,318,l),
+(50,193,l),
+(540,193,l)
+);
+}
+);
+width = 590;
+},
+{
+layerId = m004;
+shapes = (
+{
+closed = 1;
+nodes = (
+(430,275,l),
+(90,275,l),
+(90,235,l),
+(430,235,l)
+);
+}
+);
+width = 520;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (218,65);
+type = Stem;
+},
+{
+place = (80,650);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(450,280,l),
+(60,280,l),
+(60,230,l),
+(450,230,l)
+);
+}
+);
+width = 510;
+},
+{
+layerId = m006;
+shapes = (
+{
+closed = 1;
+nodes = (
+(520,293,l),
+(30,293,l),
+(30,218,l),
+(520,218,l)
+);
+}
+);
+width = 550;
+}
+);
+metricLeft = "=n";
+metricRight = "=n";
+note = emdash;
+unicode = 8211;
+userData = {
+KernOnName = endash;
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

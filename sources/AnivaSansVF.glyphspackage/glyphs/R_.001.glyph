@@ -1,0 +1,173 @@
+{
+export = 0;
+glyphname = R.001;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (302,67);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (598,69);
+type = Stem;
+},
+{
+place = (70,100);
+type = Stem;
+},
+{
+place = (406,99);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,302,l),
+(250,302,o),
+(380,200,o),
+(410,0,c),
+(510,0,l),
+(480,230,o),
+(347,309,o),
+(347,309,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(60,667,l),
+(60,0,l),
+(160,0,l),
+(160,300,l),
+(255,300,ls),
+(409,300,o),
+(495,366,o),
+(495,484,cs),
+(495,602,o),
+(409,667,o),
+(255,667,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(161,380,l),
+(161,587,l),
+(256,587,ls),
+(351,587,o),
+(396,554,o),
+(396,484,cs),
+(396,413,o),
+(351,380,o),
+(256,380,cs)
+);
+}
+);
+width = 545;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 600;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+place = (302,67);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (598,69);
+type = Stem;
+},
+{
+place = (70,100);
+type = Stem;
+},
+{
+place = (406,99);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,667,l),
+(70,0,l),
+(170,0,l),
+(170,302,l),
+(250,302,l),
+(250,302,o),
+(380,200,o),
+(410,0,c),
+(510,0,l),
+(480,230,o),
+(347,309,o),
+(347,309,c),
+(340,309,l),
+(463,334,o),
+(505,402,o),
+(505,488,cs),
+(505,581,o),
+(450,667,o),
+(265,667,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(171,369,l),
+(171,598,l),
+(262,598,ls),
+(370,598,o),
+(406,552,o),
+(406,487,cs),
+(406,420,o),
+(373,369,o),
+(266,369,cs)
+);
+}
+);
+width = 545;
+},
+{
+layerId = m006;
+width = 600;
+},
+{
+associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
+layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
+width = 602.08908;
+}
+);
+note = R;
+}

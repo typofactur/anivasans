@@ -1,0 +1,127 @@
+{
+glyphname = questiondown;
+kernRight = KO_questiondown;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-257,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (295,120);
+type = Stem;
+},
+{
+place = (72,100);
+type = Stem;
+},
+{
+place = (187,120);
+type = Stem;
+},
+{
+place = (204,93);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (384,500);
+ref = question;
+}
+);
+width = 384;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+angle = 180;
+pos = (383,500);
+ref = question;
+}
+);
+width = 383;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+angle = 180;
+pos = (520,500);
+ref = question;
+}
+);
+width = 520;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (383,500);
+ref = question;
+}
+);
+width = 383;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-257,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (295,120);
+type = Stem;
+},
+{
+place = (72,100);
+type = Stem;
+},
+{
+place = (187,120);
+type = Stem;
+},
+{
+place = (204,93);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (384,500);
+ref = question;
+}
+);
+width = 384;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (507,500);
+ref = question;
+}
+);
+width = 507;
+}
+);
+note = questiondown;
+unicode = 191;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

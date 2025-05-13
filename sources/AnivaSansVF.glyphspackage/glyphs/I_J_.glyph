@@ -1,0 +1,86 @@
+{
+glyphname = IJ;
+kernLeft = KO_I;
+kernRight = KO_U;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (325,0);
+ref = J;
+}
+);
+width = 834;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (340,0);
+ref = J;
+}
+);
+width = 845;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (433,0);
+ref = J;
+}
+);
+width = 988;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (319,0);
+ref = J;
+}
+);
+width = 816;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (330,0);
+ref = J;
+}
+);
+width = 818;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (410,0);
+ref = J;
+}
+);
+width = 952;
+}
+);
+unicode = 306;
+}

@@ -1,0 +1,91 @@
+{
+glyphname = lslash.sc;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 45;
+pos = (124,-102);
+ref = hyphen;
+}
+);
+width = 381;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 45;
+pos = (147,-102);
+ref = hyphen;
+}
+);
+width = 406;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 30;
+pos = (36,-126);
+ref = hyphen;
+scale = (1.25,1);
+}
+);
+width = 423;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 45;
+pos = (131,-102);
+ref = hyphen;
+}
+);
+width = 381;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 45;
+pos = (152,-102);
+ref = hyphen;
+}
+);
+width = 402;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = l.sc;
+},
+{
+angle = 30;
+pos = (58,-126);
+ref = hyphen;
+scale = (1.25,1);
+}
+);
+width = 423;
+}
+);
+}

@@ -1,0 +1,114 @@
+{
+glyphname = bracketright;
+kernLeft = KO_bracketright;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-71,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (667,70);
+type = Stem;
+},
+{
+place = (80,80);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+pos = (305,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 290;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+pos = (300,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 300;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+pos = (325,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 325;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (285,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 285;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-71,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (667,70);
+type = Stem;
+},
+{
+place = (80,80);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+pos = (290,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 290;
+},
+{
+layerId = m006;
+shapes = (
+{
+pos = (295,0);
+ref = bracketleft;
+scale = (-1,1);
+}
+);
+width = 295;
+}
+);
+metricLeft = "=n/2";
+metricRight = "=n";
+note = bracketleft;
+unicode = 93;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+R = NoKerning;
+};
+};
+}

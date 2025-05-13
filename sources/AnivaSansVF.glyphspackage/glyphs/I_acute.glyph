@@ -1,0 +1,86 @@
+{
+glyphname = Iacute;
+kernLeft = KO_I;
+kernRight = KO_I;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-81,167);
+ref = acutecomb;
+}
+);
+width = 344;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-73,167);
+ref = acutecomb;
+}
+);
+width = 360;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-31,167);
+ref = acutecomb;
+}
+);
+width = 446;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-89,167);
+ref = acutecomb;
+}
+);
+width = 330;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-77,167);
+ref = acutecomb;
+}
+);
+width = 350;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-42,167);
+ref = acutecomb;
+}
+);
+width = 420;
+}
+);
+unicode = 205;
+}

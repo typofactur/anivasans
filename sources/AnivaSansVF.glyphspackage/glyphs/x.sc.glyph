@@ -1,0 +1,73 @@
+{
+glyphname = x.sc;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 470;
+},
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 470;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 488;
+},
+{
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 470;
+},
+{
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 470;
+},
+{
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+ref = x;
+}
+);
+width = 488;
+}
+);
+metricLeft = "=v.sc";
+metricRight = "=v.sc";
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

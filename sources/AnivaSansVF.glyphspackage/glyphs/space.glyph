@@ -1,0 +1,42 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 250;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 250;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 300;
+},
+{
+layerId = m004;
+width = 220;
+},
+{
+layerId = m005;
+width = 220;
+},
+{
+layerId = m006;
+width = 250;
+},
+{
+associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
+layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
+width = 612.5345;
+}
+);
+note = space;
+unicode = 32;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,118 @@
+{
+export = 0;
+glyphname = J.001;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,70);
+type = Stem;
+},
+{
+place = (280,100);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,667,l),
+(170,667,l),
+(170,597,l),
+(280,597,l),
+(280,209,ls),
+(280,130,o),
+(247,60,o),
+(170,60,cs),
+(125,60,o),
+(87,74,o),
+(50,100,c),
+(12,43,l),
+(53,8,o),
+(105,-10,o),
+(170,-10,cs),
+(328,-10,o),
+(380,95,o),
+(380,225,cs)
+);
+}
+);
+width = 420;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 600;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-10,70);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (597,70);
+type = Stem;
+},
+{
+place = (280,100);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+closed = 1;
+nodes = (
+(380,667,l),
+(170,667,l),
+(170,597,l),
+(280,597,l),
+(280,209,ls),
+(280,130,o),
+(247,60,o),
+(170,60,cs),
+(125,60,o),
+(87,74,o),
+(50,100,c),
+(12,43,l),
+(53,8,o),
+(105,-10,o),
+(170,-10,cs),
+(328,-10,o),
+(380,95,o),
+(380,225,cs)
+);
+}
+);
+width = 420;
+},
+{
+layerId = m006;
+width = 600;
+},
+{
+associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
+layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
+width = 606.837;
+}
+);
+note = J;
+}

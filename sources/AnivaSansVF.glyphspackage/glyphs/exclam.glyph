@@ -1,0 +1,165 @@
+{
+glyphname = exclam;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (82.5,87);
+type = Stem;
+},
+{
+place = (67,120);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(97,200,o),
+(123,200,o),
+(150,200,c),
+(160,667,l),
+(60,667,l),
+(70,200,l)
+);
+}
+);
+width = 220;
+},
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+pos = (25,0);
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(128,175,o),
+(142,175,o),
+(155,175,c),
+(160,667,l),
+(110,667,l),
+(115,175,l)
+);
+}
+);
+width = 270;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(100,225,o),
+(150,225,o),
+(200,225,c),
+(225,667,l),
+(25,667,l),
+(50,225,l)
+);
+}
+);
+width = 250;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (25,0);
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(121,150,o),
+(149,150,o),
+(150,175,cs),
+(160,667,l),
+(110,667,l),
+(120,175,ls)
+);
+}
+);
+width = 270;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (-5,120);
+type = Stem;
+},
+{
+place = (82.5,87);
+type = Stem;
+},
+{
+place = (67,120);
+type = Stem;
+}
+);
+layerId = m005;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(71,175,o),
+(149,175,o),
+(150,225,cs),
+(160,667,l),
+(60,667,l),
+(70,225,ls)
+);
+}
+);
+width = 220;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = period;
+},
+{
+closed = 1;
+nodes = (
+(53,200,o),
+(197,200,o),
+(200,250,cs),
+(225,667,l),
+(25,667,l),
+(50,250,ls)
+);
+}
+);
+width = 250;
+}
+);
+note = exclam;
+unicode = 33;
+userData = {
+KernOnName = exclam;
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
+}

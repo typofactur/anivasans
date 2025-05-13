@@ -1,0 +1,133 @@
+{
+glyphname = v.sc;
+kernLeft = KO_v.sc;
+kernRight = KO_v.sc;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = top;
+pos = (235,500);
+}
+);
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 470;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = top;
+pos = (235,500);
+}
+);
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 470;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = top;
+pos = (265,500);
+}
+);
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 530;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = top;
+pos = (235,500);
+}
+);
+layerId = m004;
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 470;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (235,0);
+},
+{
+name = top;
+pos = (235,500);
+}
+);
+layerId = m005;
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 470;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = top;
+pos = (265,500);
+}
+);
+layerId = m006;
+shapes = (
+{
+alignment = -1;
+ref = v;
+}
+);
+width = 530;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = smallcaps;
+R = smallcaps;
+};
+};
+}

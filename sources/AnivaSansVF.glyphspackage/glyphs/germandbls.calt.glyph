@@ -1,0 +1,60 @@
+{
+export = 0;
+glyphname = germandbls.calt;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 618;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 640;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 782;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 604;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 623;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = Germandbls;
+}
+);
+width = 755;
+}
+);
+}

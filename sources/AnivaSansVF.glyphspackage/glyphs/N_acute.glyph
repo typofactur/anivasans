@@ -1,0 +1,86 @@
+{
+glyphname = Nacute;
+kernLeft = KO_H;
+kernRight = KO_H;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (47,167);
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (47,167);
+ref = acutecomb;
+}
+);
+width = 600;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (71,167);
+ref = acutecomb;
+}
+);
+width = 650;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (36,167);
+ref = acutecomb;
+}
+);
+width = 580;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (33,167);
+ref = acutecomb;
+}
+);
+width = 570;
+},
+{
+layerId = m006;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (53,167);
+ref = acutecomb;
+}
+);
+width = 610;
+}
+);
+unicode = 323;
+}

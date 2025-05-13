@@ -1,0 +1,37 @@
+{
+glyphname = figurespace;
+layers = (
+{
+layerId = "481D16E4-1E98-4559-AE79-559AF135D401";
+width = 667;
+},
+{
+layerId = m01;
+width = 667;
+},
+{
+layerId = "05E54F0F-8425-4B5B-B0EB-B578BBC85A7B";
+width = 667;
+},
+{
+layerId = m004;
+width = 667;
+},
+{
+layerId = m005;
+width = 667;
+},
+{
+layerId = m006;
+width = 667;
+}
+);
+metricWidth = zero.tf;
+unicode = 8199;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}
