@@ -64,6 +64,13 @@ includeSourceFixes: true
 # for each VF file built.
 stat:
   AnivaSans[opsz,wght].ttf:
+  - name: Optical Size
+    tag: opsz
+    values:
+      - name: Text
+        value: 14
+      - name: Display
+        value: 70
   - name: Weight
     tag: wght
     values:
@@ -85,13 +92,6 @@ stat:
       value: 900
     - name: ExtraBlack
       value: 1000
-  - name: Optical Size
-    tag: opsz
-    values:
-      - name: Text
-        value: 14
-      - name: Display
-        value: 70
 #  - name: Italic
 #    tag: ital
 #    values:
