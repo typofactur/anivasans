@@ -295,7 +295,7 @@ name = "Use Extension Kerning";
 value = 1;
 }
 );
-date = "2025-04-21 21:33:26 +0000";
+date = "2025-05-13 16:49:05 +0000";
 familyName = "Aniva Sans";
 featurePrefixes = (
 {
@@ -72320,7 +72320,7 @@ value = "https://typofactur.de";
 },
 {
 key = postscriptFontName;
-value = "Aniva Sans VF";
+value = "Aniva Sans";
 },
 {
 key = postscriptFullName;
@@ -72408,5 +72408,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.33";
 };
 versionMajor = 1;
-versionMinor = 302;
+versionMinor = 400;
 }
