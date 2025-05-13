@@ -7,7 +7,7 @@
 # sources/ directory, so all paths should be relative to that
 # directory.
 sources:
-  - AnivaSansVF.glyphspackage
+  - AnivaSans.glyphspackage
 #  - AnivaSansVF-Italic.glyphspackage
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
@@ -63,7 +63,7 @@ includeSourceFixes: true
 # if you specify a dictionary which does not contain an entry
 # for each VF file built.
 stat:
-  AnivaSans[wght].ttf:
+  AnivaSans[opsz,wght].ttf:
   - name: Weight
     tag: wght
     values:
