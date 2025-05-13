@@ -72319,14 +72319,6 @@ key = manufacturerURL;
 value = "https://typofactur.de";
 },
 {
-key = postscriptFontName;
-value = "Aniva Sans";
-},
-{
-key = postscriptFullName;
-value = "Aniva Sans";
-},
-{
 key = vendorID;
 value = TYFA;
 }
