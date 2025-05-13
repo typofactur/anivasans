@@ -2297,6 +2297,7 @@ m004 = 0.5;
 m005 = 0.5;
 };
 name = "Display Light";
+weightClass = 300;
 },
 {
 axesValues = (
@@ -2330,6 +2331,7 @@ m005 = 0.8;
 m006 = 0.2;
 };
 name = "Display SemiBold";
+weightClass = 600;
 },
 {
 axesValues = (
@@ -2343,6 +2345,7 @@ m006 = 0.4;
 isBold = 1;
 linkStyle = "Display Regular";
 name = "Display Bold";
+weightClass = 700;
 },
 {
 axesValues = (
@@ -2354,6 +2357,7 @@ m005 = 0.2;
 m006 = 0.8;
 };
 name = "Display Black";
+weightClass = 900;
 },
 {
 axesValues = (
