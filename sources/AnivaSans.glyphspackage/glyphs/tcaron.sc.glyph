@@ -9,8 +9,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (-47,0);
-ref = caroncomb;
+pos = (327,0);
+ref = caroncomb.alt;
 }
 );
 width = 406;
@@ -22,8 +22,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (-26,0);
-ref = caroncomb;
+pos = (377,0);
+ref = caroncomb.alt;
 }
 );
 width = 448;
@@ -35,8 +35,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (11,0);
-ref = caroncomb;
+pos = (488,0);
+ref = caroncomb.alt;
 }
 );
 width = 522;
@@ -48,8 +48,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (-47,0);
-ref = caroncomb;
+pos = (327,0);
+ref = caroncomb.alt;
 }
 );
 width = 406;
@@ -61,8 +61,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (-31,0);
-ref = caroncomb;
+pos = (370,0);
+ref = caroncomb.alt;
 }
 );
 width = 438;
@@ -74,8 +74,8 @@ shapes = (
 ref = t.sc;
 },
 {
-pos = (11,0);
-ref = caroncomb;
+pos = (489,0);
+ref = caroncomb.alt;
 }
 );
 width = 522;

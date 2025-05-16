@@ -94,6 +94,14 @@ Changelog example:
 **13 May 2025. Version 1.400**
 - same version number as Aniva Serif
 
+**16 May 2025. Version 1.410**
+- florin.sc added
+- idotless.sc renamed to dotlessi.sc
+- feature for N.salt
+- description added
+- licence and copyright added
+- added multiply, divide, notequal, greater, less, greaterequal, lessequal, approxequal, asciitilde, logicalnot, asciicircum, percent, perthousand
+
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
