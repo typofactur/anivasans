@@ -59594,17 +59594,6 @@ parenleft = -15;
 question = -35;
 semicolon = -16;
 };
-percent = {
-comma = -60;
-dagger = -124;
-hyphen = -34;
-onesuperior = -106;
-parenright = -77;
-period = -60;
-semicolon = -52;
-threesuperior = -94;
-twosuperior = -100;
-};
 period = {
 X = -19;
 asterisk = -110;
@@ -71214,17 +71203,6 @@ equal = -21;
 parenleft = 0;
 question = -24;
 semicolon = 0;
-};
-percent = {
-comma = 0;
-dagger = 0;
-hyphen = 0;
-onesuperior = 0;
-parenright = 0;
-period = 0;
-semicolon = 0;
-threesuperior = 0;
-twosuperior = 0;
 };
 period = {
 X = -44;

@@ -1,6 +1,5 @@
 {
 glyphname = percent;
-kernLeft = KO_percent;
 layers = (
 {
 hints = (
@@ -11,7 +10,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = (325,41);
+place = (309,41);
 type = Stem;
 },
 {
@@ -20,19 +19,27 @@ place = (644,41);
 type = Stem;
 },
 {
-place = (55,110);
+place = (70,110);
 type = Stem;
 },
 {
-place = (297,110);
+place = (312,110);
 type = Stem;
 },
 {
-place = (472,98);
+place = (487,98);
 type = Stem;
 },
 {
-place = (702,98);
+place = (717,98);
+type = Stem;
+},
+{
+place = (875,98);
+type = Stem;
+},
+{
+place = (1105,98);
 type = Stem;
 },
 {
@@ -43,7 +50,7 @@ type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (309,41);
+place = (325,41);
 type = Stem;
 }
 );
@@ -132,16 +139,6 @@ nodes = (
 (658,88,o),
 (648,42,o),
 (597,42,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-);
-},
-{
-closed = 1;
-nodes = (
 );
 }
 );
@@ -429,7 +426,7 @@ type = Stem;
 },
 {
 horizontal = 1;
-place = (325,41);
+place = (309,41);
 type = Stem;
 },
 {
@@ -438,19 +435,27 @@ place = (644,41);
 type = Stem;
 },
 {
-place = (55,110);
+place = (70,110);
 type = Stem;
 },
 {
-place = (297,110);
+place = (312,110);
 type = Stem;
 },
 {
-place = (472,98);
+place = (487,98);
 type = Stem;
 },
 {
-place = (702,98);
+place = (717,98);
+type = Stem;
+},
+{
+place = (875,98);
+type = Stem;
+},
+{
+place = (1105,98);
 type = Stem;
 },
 {
@@ -461,7 +466,7 @@ type = BottomGhost;
 },
 {
 horizontal = 1;
-place = (309,41);
+place = (325,41);
 type = Stem;
 }
 );
@@ -649,16 +654,11 @@ width = 820;
 {
 associatedMasterId = "481D16E4-1E98-4559-AE79-559AF135D401";
 layerId = "3EF2FCCD-CB93-4CD0-83B9-CF96778F0091";
-width = 589.7445;
+width = 574.43723;
 }
 );
 metricLeft = "=O";
 metricRight = "=O";
-note = percent;
+note = perthousand;
 unicode = 37;
-userData = {
-KernOnSpecialSpacing = {
-L = "spaced-off";
-};
-};
 }
